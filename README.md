@@ -8,7 +8,7 @@
 
 作者 GitHub：
 
-[https://github.com/2531565073zzc-ux](https://github.com/2531565073zzc-ux)
+(https://github.com/Wait4Rain)
 
 参考工具项目：
 
